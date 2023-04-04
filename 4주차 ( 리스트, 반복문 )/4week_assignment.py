@@ -5,3 +5,22 @@
 # 제출 기한 : 2023년 4월 10일 23시 59분
 # 지각 제출 기한 : 2023년 4월 11일 23시 59분
 
+# 1번
+def double(lst):
+    # your code
+    return
+
+# 2번
+def pascal(n):
+    # your code
+    return
+
+# 3번
+def beerRefrigerator(n):
+    # your code
+    return
+
+# 4번
+def matrixMul(mat1, mat2):
+    # your code
+    return
